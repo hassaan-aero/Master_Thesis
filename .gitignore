@@ -1,0 +1,5 @@
+# Large files or binary files
+
+*.bin
+
+guide_pushing_repo
